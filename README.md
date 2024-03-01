@@ -9,7 +9,7 @@ $ sudo ln -sf $(pwd)/phpv.py /usr/local/bin/phpv
 Uso
 
 ```
-$ sudo phpversion x.x
+$ sudo phpv x.x
 ```
 
 
